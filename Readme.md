@@ -1,5 +1,6 @@
 # Programas para Resolver Necesidades en ARM64
-
+Video de corrida de los pogramas:
+<a href="https://asciinema.org/a/tYw5CvW4K9AUPcbHJXCgKBiUw" target="_blank"><img src="https://asciinema.org/a/tYw5CvW4K9AUPcbHJXCgKBiUw.svg" /></a>
 La arquitectura ARM64, ampliamente utilizada en dispositivos móviles, sistemas embebidos y servidores eficientes, ofrece un entorno ideal para desarrollar soluciones prácticas a problemas cotidianos. Su eficiencia energética y alto rendimiento hacen que sea una opción preferida para aplicaciones que requieren velocidad y optimización. Este repositorio presenta una colección de programas diseñados para abordar una amplia gama de necesidades, desde cálculos básicos hasta simulaciones avanzadas, mientras introduce conceptos clave de programación y algoritmos en ARM64. Ya sea que estés buscando optimizar procesos, explorar nuevas aplicaciones o simplemente aprender más sobre esta arquitectura, aquí encontrarás herramientas útiles y versátiles para lograrlo. Contamos como ejemplo de la resolucion de:
 
 ## Operaciones Básicas
